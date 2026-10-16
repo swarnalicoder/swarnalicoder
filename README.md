@@ -26,7 +26,7 @@
   `Java`, `HTML/CSS`, `JavaScript`, `React basics`, and `how to start as a student developer`
 
 - 📫 How to reach me:  
-  📧 swarnali.yourmail@gmail.com  
+  📧 vswaranli@gmail.com  
   💼 [LinkedIn](https://www.linkedin.com/in/svhankade-63744b358/)
 
 - ⚡ Fun fact:  
